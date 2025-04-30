@@ -96,7 +96,7 @@ Five distinct customer segments were identified:
 
 ## Source
 - Dataset: Supermarket sales dataset (publicly available)
-- Analysis: [Google Colab Notebook](link-to-notebook)
+- Analysis: [Google Colab Notebook](https://colab.research.google.com/drive/18lfXLdmSoHLEhaUjChEazTF-mdHgCgug?usp=sharing)
 
 ---
 *This project was completed as part of the BDM capstone Project for the IITM Online BS Degree Program.*
